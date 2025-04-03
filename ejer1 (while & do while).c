@@ -32,7 +32,6 @@ int main()
 }
 
 //ejercicio en do while
-
 #include <stdio.h>
 
 int main()
