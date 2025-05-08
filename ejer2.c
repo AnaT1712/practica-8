@@ -18,9 +18,9 @@ int main()
         cont=cont + 1;
         
     }
-    while (n<=10 && res>100);
+    while (n <=100 && cont<10);
     
-    if (n>=10)
+    if (cont>=10)
         {
             printf("el programa terminó porque se han introducido más de 10 numeros");
         }
